@@ -5,13 +5,13 @@ baseurl:        ""
 url:            "https://marcosbrasil.in"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-159917947-1
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Marcos Brasil
+  url:          https://marcosbrasil.in
+  email:        marcosbrasil.in@gmail.com
 
 # Build settings
 markdown:       kramdown
